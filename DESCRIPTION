@@ -1,0 +1,11 @@
+Package: routeR
+Type: Package
+Title: Lightweight routing on the top of rApache
+Version: 0.1.0
+Author: Gallusz Abaligeti
+Maintainer: Gallusz Abaligeti <gabaligeti@gmail.com>
+Description: very, very simple web api framework wich makes routing on an Apache web server with rapache module
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
