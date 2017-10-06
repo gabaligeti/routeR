@@ -1,4 +1,4 @@
-## rApache
+## Setup rApache
 
 To use router you will need rApache module for Apache webserver: https://github.com/jeffreyhorner/rapache
 
